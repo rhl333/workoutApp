@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+div.navContainer {
+  background-color: white;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  padding: 0 5rem;
+}
+
+div.navContainer a {
+  text-decoration: none;
+  color: black;
+}
+
+div.navContainer h1 {
+  font-size: 37px;
+  font-weight: 600;
+}
